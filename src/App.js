@@ -2,10 +2,10 @@ import logo from "./logo.svg";
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 import luffy from "./assets/img/luffy-one-piece-wallpaper-211060976.jpg";
-import zoro from "./assets/img/Zoro.jpeg";
+import zoro from "./assets/img/Zoro.png";
 import sanji from "./assets/img/Sanji.png";
-import robin from "./assets/img/Robin.jpeg";
-import nami from "./assets/img/Nami.jpeg";
+import robin from "./assets/img/Robin.png";
+import nami from "./assets/img/Nami.png";
 import chopper from "./assets/img/Chopper.jpg";
 import "./index.css";
 
